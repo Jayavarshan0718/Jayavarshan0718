@@ -35,12 +35,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jayavarshan0718&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavarshan0718&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jayavarshan0718&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Jayavarshan0718&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayavarshan0718&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jayavarshan0718&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -56,7 +56,11 @@
 ### Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jayavarshan0718/Jayavarshan0718/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jayavarshan0718/Jayavarshan0718/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jayavarshan0718/Jayavarshan0718/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Jayavarshan0718/Jayavarshan0718/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
