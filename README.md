@@ -34,10 +34,17 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayavarshan0718&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavarshan0718&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jayavarshan0718&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jayavarshan0718&theme=tokyonight" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jayavarshan0718&theme=tokyonight" alt="Profile Details" />
+</p>
+
+---
+
+### GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Jayavarshan0718&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -45,10 +52,10 @@
 
 ---
 
-### GitHub Trophies
+### Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jayavarshan0718&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayavarshan0718&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
