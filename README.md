@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Jayavarshan 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Jayavarshan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=20&descColor=c7d2fe" />
+</div>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Angular · Node.js · SQL Server
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+%7C+Node.js+%7C+SQL+Server;Building+Real-World+HR+Systems;AI+Integration+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -32,11 +34,13 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayavarshan0718&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayavarshan0718&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavarshan0718&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayavarshan0718&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jayavarshan0718&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -49,6 +53,18 @@
 
 ---
 
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jayavarshan0718/Jayavarshan0718/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jayavarshan0718&color=6366f1&style=flat-square" alt="Profile Views" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" />
+</div>
